@@ -1,4 +1,4 @@
-# TheResolvedTech #TRT23
+# TheResolvedTech #TRT23 @TheResolvedTech
 Using machine learning we can implement a two tasks on projects 1) Stock Price Predictions and  2) simple chatbot assistance system using python in jupyter notebook
 
 1) Google Stock price prediction: 
